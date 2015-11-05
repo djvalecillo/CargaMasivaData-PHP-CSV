@@ -1,0 +1,15 @@
+[0] Parentesco -> CONYUGUE;
+[1] CI Titular -> 22830413;
+[2] CI Familiar ->  12131024;
+[3] Nombres -> EGLYS MARICETT;
+[4] Apellidos -> NUÑEZ DE LOPEZ;
+[5] Fecha Nacimiento -> 22/10/1974;
+[6] Telefono -> 2869531544;
+[7] Correo -> 
+[8] Direccion ->
+[9] Sexo -> F;
+[10] Vencimiento -> 12/08/2015;
+[11] Patologia -> DM TIPO 1, HEMORRAGIA UTERINA DIFUNCIONAL;
+[12] Medicamento -> INSULINA-HUMULIN 70/30 MG, CORASPIRINA 75 MG;
+[13] Frecuencia -> DIARIO;
+[14] Observacion -> NO  HAY DX PARA CORASPIRINA
